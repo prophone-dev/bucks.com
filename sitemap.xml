@@ -5,7 +5,112 @@
 
     <url>
         <loc>https://bucks.com/index</loc>
-        <lastmod>2022-03-24</lastmod>
+        <lastmod>2022-05-25</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://bucks.com/store</loc>
+        <lastmod>2022-05-25</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://bucks.com/reviews</loc>
+        <lastmod>2022-05-25</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://bucks.com/gallery-All</loc>
+        <lastmod>2022-05-25</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://bucks.com/gallery-Exterior-Detailing</loc>
+        <lastmod>2022-05-25</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://bucks.com/service-Boat-Detailing</loc>
+        <lastmod>2022-05-25</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://bucks.com/service-Ceramic-Coating</loc>
+        <lastmod>2022-05-25</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://bucks.com/service-Exterior-Detailing</loc>
+        <lastmod>2022-05-25</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://bucks.com/service-Full-Detail-Service</loc>
+        <lastmod>2022-05-25</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://bucks.com/service-Headlight-Restoration</loc>
+        <lastmod>2022-05-25</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://bucks.com/service-Interior-Detailing</loc>
+        <lastmod>2022-05-25</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://bucks.com/service-Maintenance-Wash</loc>
+        <lastmod>2022-05-25</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://bucks.com/service-Motorcycle-Detailing</loc>
+        <lastmod>2022-05-25</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://bucks.com/service-Paint-Correction</loc>
+        <lastmod>2022-05-25</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://bucks.com/service-RV-&-Camper-Detail</loc>
+        <lastmod>2022-05-25</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://bucks.com/service-Waxing-Services</loc>
+        <lastmod>2022-05-25</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
