@@ -5,112 +5,98 @@
 
     <url>
         <loc>https://bucks.com/index</loc>
-        <lastmod>2022-05-25</lastmod>
+        <lastmod>2022-07-21</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
         <loc>https://bucks.com/store</loc>
-        <lastmod>2022-05-25</lastmod>
+        <lastmod>2022-07-21</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
         <loc>https://bucks.com/reviews</loc>
-        <lastmod>2022-05-25</lastmod>
+        <lastmod>2022-07-21</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
         <loc>https://bucks.com/gallery-All</loc>
-        <lastmod>2022-05-25</lastmod>
+        <lastmod>2022-07-21</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
-        <loc>https://bucks.com/gallery-Exterior-Detailing</loc>
-        <lastmod>2022-05-25</lastmod>
+        <loc>https://bucks.com/gallery-Hardscaping</loc>
+        <lastmod>2022-07-21</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
-        <loc>https://bucks.com/service-Boat-Detailing</loc>
-        <lastmod>2022-05-25</lastmod>
+        <loc>https://bucks.com/gallery-Landscaping</loc>
+        <lastmod>2022-07-21</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
-        <loc>https://bucks.com/service-Ceramic-Coating</loc>
-        <lastmod>2022-05-25</lastmod>
+        <loc>https://bucks.com/gallery-Lawn-Care</loc>
+        <lastmod>2022-07-21</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
-        <loc>https://bucks.com/service-Exterior-Detailing</loc>
-        <lastmod>2022-05-25</lastmod>
+        <loc>https://bucks.com/service-Fall-and-Spring-Clean-Up</loc>
+        <lastmod>2022-07-21</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
-        <loc>https://bucks.com/service-Full-Detail-Service</loc>
-        <lastmod>2022-05-25</lastmod>
+        <loc>https://bucks.com/service-Lawn-Aeration</loc>
+        <lastmod>2022-07-21</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
-        <loc>https://bucks.com/service-Headlight-Restoration</loc>
-        <lastmod>2022-05-25</lastmod>
+        <loc>https://bucks.com/service-Mowing</loc>
+        <lastmod>2022-07-21</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
-        <loc>https://bucks.com/service-Interior-Detailing</loc>
-        <lastmod>2022-05-25</lastmod>
+        <loc>https://bucks.com/service-Mulch-Installation</loc>
+        <lastmod>2022-07-21</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
-        <loc>https://bucks.com/service-Maintenance-Wash</loc>
-        <lastmod>2022-05-25</lastmod>
+        <loc>https://bucks.com/service-Patio-Design-&-Construction</loc>
+        <lastmod>2022-07-21</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
-        <loc>https://bucks.com/service-Motorcycle-Detailing</loc>
-        <lastmod>2022-05-25</lastmod>
+        <loc>https://bucks.com/service-Retaining-Wall-Construction</loc>
+        <lastmod>2022-07-21</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
-        <loc>https://bucks.com/service-Paint-Correction</loc>
-        <lastmod>2022-05-25</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-
-    <url>
-        <loc>https://bucks.com/service-RV-&-Camper-Detail</loc>
-        <lastmod>2022-05-25</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-
-    <url>
-        <loc>https://bucks.com/service-Waxing-Services</loc>
-        <lastmod>2022-05-25</lastmod>
+        <loc>https://bucks.com/service-Shrub-Trimming</loc>
+        <lastmod>2022-07-21</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
